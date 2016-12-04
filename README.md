@@ -1,7 +1,7 @@
 ## Webapp boilerplate
 A simple project structure for web applications. Uses:
 + Server: Express
-+ Encryption: Bycrypt
++ Encryption: Bcrypt
 + Templating: Pug
 + Database (relational): Postgres
 + ORM: Sequelize
